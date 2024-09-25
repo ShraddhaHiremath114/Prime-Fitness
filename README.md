@@ -4,6 +4,8 @@ Implemented backend to handle registrations, authentications.
 User Module handles registration, secure login, slot booking, cancellations, and feedback.
 Admin Module features secure access, gym items management, slot scheduling, user management, and feedback analysis.
 
+To protect the integrity of this project and prevent unauthorized usage or code theft, the full source code is not publicly available. Instead, I am sharing only the outputs. If you have any questions feel free to contact me directly.
+
 Home Page
 ![home](https://github.com/user-attachments/assets/2dc2f23f-11dc-4517-bac4-52fae2350ca3)
 
