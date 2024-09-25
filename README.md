@@ -1,3 +1,9 @@
+# Gym Management System Using Spring Boot
+Developed a rich intuitive user interface using bootstrap, providing seamless user experience.
+Implemented backend to handle registrations, authentications.
+User Module handles registration, secure login, slot booking, cancellations, and feedback.
+Admin Module features secure access, gym items management, slot scheduling, user management, and feedback analysis.
+
 Home Page
 ![home](https://github.com/user-attachments/assets/2dc2f23f-11dc-4517-bac4-52fae2350ca3)
 
